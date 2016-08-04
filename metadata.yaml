@@ -1,0 +1,29 @@
+_repo: The-Second-Book-of-Modern-Verse--a-selection-from-the-work-of-contemporaneous-American-poets_1166
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Rittenhouse, Jessie B. (Jessie Belle)
+    aliases:
+    - Scollard, Mrs. Clinton
+    - Rittenhouse, Jessie Belle
+    - Scollard, Jessie Belle Rittenhouse
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '540'
+    url: http://www.gutenberg.org/2009/agents/540
+description: ''
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: "The Second Book of Modern Verse\r\nA Selection from the Work of Contemporaneous\
+  \ American Poets"
+url: http://www.gutenberg.org/ebooks/1166
