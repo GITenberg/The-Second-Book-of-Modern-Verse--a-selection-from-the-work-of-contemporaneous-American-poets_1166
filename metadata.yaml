@@ -1,5 +1,8 @@
 _repo: The-Second-Book-of-Modern-Verse--a-selection-from-the-work-of-contemporaneous-American-poets_1166
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Rittenhouse, Jessie B. (Jessie Belle)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '540'
     url: http://www.gutenberg.org/2009/agents/540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1166#The-Second-Book-of-Modern-Verse--a-selection-from-the-work-of-contemporaneous-American-poets
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
 identifiers:
